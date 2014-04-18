@@ -11,8 +11,8 @@
 	mkdir -p /srv/www/
 	mkdir -p /var/www/
 	
-# Install FPM, Curl, MySQL, APCu, Memcache, Gd
-	apt-get -y install php5-fpm php5-curl php5-mysql php5-apcu php5-memcache php5-gd 
+# Install FPM, Curl, MySQL, Memcache, Gd
+	apt-get -y install php5-fpm php5-curl php5-mysql php5-memcache php5-gd 
 	
 #### PHP Settings ####
 	
