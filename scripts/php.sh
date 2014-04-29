@@ -1,4 +1,4 @@
-# PHP 5.3 Ubuntu Server 12.04 Install Script
+# PHP 5.3 Ubuntu Server 14.04 Install Script
 # A part of the wp-deliverance super fast WordPress project
 # Copyright (c) 2012 Tom Rodenberg <tarodenberg gmail com>
 # Licensed under the GPL (http://www.gnu.org/licenses/gpl.html) license.
